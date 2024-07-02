@@ -67,7 +67,7 @@ python ciphershift.py
 
 ## Screenshots
 
-NOT AVAILABLE YET.
+![alt text](./assets/Screenshot.png)
 
 ## Contributing
 
